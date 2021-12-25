@@ -1,21 +1,21 @@
 [
   {
     "full_name": "notrab/headless-dropshipping-starter",
-    "stargazers_count": 329,
+    "stargazers_count": 330,
     "open_issues_count": 3,
-    "forks_count": 51
+    "forks_count": 52
   },
   {
     "full_name": "ritz078/transform",
-    "stargazers_count": 2854,
+    "stargazers_count": 2864,
     "open_issues_count": 22,
-    "forks_count": 178
+    "forks_count": 179
   },
   {
     "full_name": "tesseract-ocr/tesseract",
-    "stargazers_count": 43223,
-    "open_issues_count": 344,
-    "forks_count": 7701
+    "stargazers_count": 43248,
+    "open_issues_count": 346,
+    "forks_count": 7703
   },
   {
     "full_name": "sdras/fortnite-vscode-theme",
@@ -26,50 +26,50 @@
   {
     "full_name": "jpedroschmitz/gatsby-starter-ts",
     "stargazers_count": 242,
-    "open_issues_count": 1,
+    "open_issues_count": 2,
     "forks_count": 18
   },
   {
     "full_name": "microsoft/playwright-python",
-    "stargazers_count": 5596,
-    "open_issues_count": 22,
-    "forks_count": 494
+    "stargazers_count": 5612,
+    "open_issues_count": 25,
+    "forks_count": 500
   },
   {
     "full_name": "danistefanovic/build-your-own-x",
-    "stargazers_count": 125732,
+    "stargazers_count": 125909,
     "open_issues_count": 207,
-    "forks_count": 11547
+    "forks_count": 11579
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 57399,
+    "stargazers_count": 57424,
     "open_issues_count": 8,
-    "forks_count": 5580
+    "forks_count": 5585
   },
   {
     "full_name": "jlevy/the-art-of-command-line",
-    "stargazers_count": 100565,
-    "open_issues_count": 199,
-    "forks_count": 10856
+    "stargazers_count": 100667,
+    "open_issues_count": 201,
+    "forks_count": 10866
   },
   {
     "full_name": "jaredpalmer/razzle",
-    "stargazers_count": 10551,
-    "open_issues_count": 65,
-    "forks_count": 886
+    "stargazers_count": 10555,
+    "open_issues_count": 67,
+    "forks_count": 887
   },
   {
     "full_name": "stereobooster/react-snap",
-    "stargazers_count": 4569,
-    "open_issues_count": 169,
+    "stargazers_count": 4572,
+    "open_issues_count": 168,
     "forks_count": 330
   },
   {
     "full_name": "ant-design/ant-design",
-    "stargazers_count": 76537,
-    "open_issues_count": 776,
-    "forks_count": 31743
+    "stargazers_count": 76599,
+    "open_issues_count": 777,
+    "forks_count": 31804
   },
   {
     "full_name": "iamcco/coc-leetcode",
@@ -79,7 +79,7 @@
   },
   {
     "full_name": "GoogleChromeLabs/bubblewrap",
-    "stargazers_count": 1431,
+    "stargazers_count": 1435,
     "open_issues_count": 53,
     "forks_count": 100
   },
@@ -103,43 +103,43 @@
   },
   {
     "full_name": "seanprashad/leetcode-patterns",
-    "stargazers_count": 3771,
+    "stargazers_count": 3798,
     "open_issues_count": 17,
-    "forks_count": 675
+    "forks_count": 682
   },
   {
     "full_name": "pacocoursey/next-themes",
-    "stargazers_count": 1402,
-    "open_issues_count": 9,
+    "stargazers_count": 1412,
+    "open_issues_count": 10,
     "forks_count": 42
   },
   {
     "full_name": "leerob/leerob.io",
-    "stargazers_count": 2833,
-    "open_issues_count": 8,
-    "forks_count": 573
+    "stargazers_count": 2850,
+    "open_issues_count": 10,
+    "forks_count": 579
   },
   {
     "full_name": "typescript-cheatsheets/react",
-    "stargazers_count": 30477,
+    "stargazers_count": 30542,
     "open_issues_count": 5,
-    "forks_count": 2449
+    "forks_count": 2456
   },
   {
     "full_name": "kentcdodds/advanced-react-hooks",
-    "stargazers_count": 1509,
-    "open_issues_count": 6,
-    "forks_count": 741
+    "stargazers_count": 1513,
+    "open_issues_count": 7,
+    "forks_count": 745
   },
   {
     "full_name": "vercel/next.js",
-    "stargazers_count": 78512,
-    "open_issues_count": 1345,
-    "forks_count": 15814
+    "stargazers_count": 78639,
+    "open_issues_count": 1247,
+    "forks_count": 15848
   },
   {
     "full_name": "tokotype/PlusJakartaSans",
-    "stargazers_count": 351,
+    "stargazers_count": 352,
     "open_issues_count": 9,
     "forks_count": 22
   },
@@ -157,9 +157,9 @@
   },
   {
     "full_name": "storybookjs/storybook",
-    "stargazers_count": 67542,
-    "open_issues_count": 1635,
-    "forks_count": 6897
+    "stargazers_count": 67623,
+    "open_issues_count": 1641,
+    "forks_count": 6914
   },
   {
     "full_name": "SaraVieira/blender-resources",
@@ -169,9 +169,9 @@
   },
   {
     "full_name": "facebook/react-native-website",
-    "stargazers_count": 1504,
+    "stargazers_count": 1515,
     "open_issues_count": 105,
-    "forks_count": 3728
+    "forks_count": 3735
   },
   {
     "full_name": "JamesUgbanu/react-native-woocommerce-api",
